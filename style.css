@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    background-repeat: no-repeat;
+}
+.container{
+    height:900px;
+    width:900px;
+    background-image:url(images/cv1.jpg);
+    background-size: cover;
+}
+.box1{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    border: 3px rgb(25, 45, 120);
+}
+#p1{
+    font-size: 30px;
+
+}
+p{
+    color:rgb(16, 54, 157);
+    display:inline;
+    margin-left: 400px;
+}
+h2{
+    color:rgb(5, 5, 5);
+    justify-self: center;
+}
+.no2{
+    margin-top: 30px;
+}
+.no3{
+    margin-top: 30px;
+}
+.no4{
+    margin-top: 30px;
+}
